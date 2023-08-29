@@ -1,0 +1,5 @@
+Time resolution is 1 ps
+Sent out 0xC1, Received 0xc1
+Sent out 0xBE, Received 0xbe
+Sent out 0xEF, Received 0xef
+$finish called at time : 922 ns : File "C:/Users/aidan/github/spi_interface/spi_vivado/spi_vivado.srcs/sources_1/new/SPI_Master_TB.sv" Line 84
